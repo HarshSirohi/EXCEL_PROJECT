@@ -4,7 +4,7 @@
 
 ## 📌 Project Overview
 
-This project presents an in-depth **analysis and visualization of crop production across Indian states** from **1966 to 2017**, using Microsoft Excel's powerful features like **PivotTables, Charts, Slicers**, and **Dashboards**. The dataset, sourced from (http://data.icrisat.org/dld/src/crops.html), contains more than **416147 records** related to seasonal production of various crops in districts across India.
+This project presents an in-depth **analysis and visualization of crop production across Indian states** from **1966 to 2017**, using Microsoft Excel's powerful features like **PivotTables, Charts, Slicers**, and **Dashboards**. The dataset, sourced from (http://data.icrisat.org/dld/src/crops.html), contains more than **16147 records** related to seasonal production of various crops in districts across India.
 
 The goal of this project is to:
 - Identify key trends in crop production over time.
